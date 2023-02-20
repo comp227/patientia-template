@@ -27,7 +27,7 @@ const App = () => {
       <Router>
         <Container>
           <Typography variant="h3" style={{ marginBottom: "0.5em" }}>
-            Patientor
+            Patientia
           </Typography>
           <Button component={Link} to="/" variant="contained" color="primary">
             Home
